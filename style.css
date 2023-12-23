@@ -89,6 +89,13 @@ form{
     text-transform: capitalize;
 }
 
+.ps{
+    font-family: FontAwesome;
+}
+.ps:focus{
+    font-family: 'Sofia Sans', sans-serif;
+}
+
 .inp-group > input,.inp-group > select{
     width: 100%;
     height: 48px;
